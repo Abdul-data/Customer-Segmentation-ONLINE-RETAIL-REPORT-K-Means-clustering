@@ -21,3 +21,6 @@ View the report by clicking the link below:
 
 https://github.com/Abdul-data/Customer-Segmentation-ONLINE-RETAIL-REPORT-K-Means-clustering/blob/main/ONLINE%20RETAIL%20REPORT.pdf
 
+You can interact with the dashboard by clicking on the link below:
+
+https://app.powerbi.com/view?r=eyJrIjoiZGY5OGEyMmMtOTI3Yy00NjAzLThjOWEtNjY5YWIzMThjYWE0IiwidCI6Ijc3ZDk0ZGNlLThmMWMtNDk3Yi04ZjExLTc3ZTc4YjBmY2UzOSJ9
