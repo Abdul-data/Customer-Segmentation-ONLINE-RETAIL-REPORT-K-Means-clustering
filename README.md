@@ -14,3 +14,7 @@ This project utilizes analytics techniques to segment customers based on their b
 __Technology used: Python(Pandas, Matplotlib, Seaborn, Scikit-Learn), Power Bi__
 
 Access the python code analysis by clicking the link below:
+https://github.com/Abdul-data/Customer-Segmentation-ONLINE-RETAIL-REPORT-K-Means-clustering/blob/main/Customer%20Segmentation%20Jupyter%20%20().ipynb
+
+View the report by clicking the link below:
+
