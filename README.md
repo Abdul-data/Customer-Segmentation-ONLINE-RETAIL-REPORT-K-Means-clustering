@@ -1,6 +1,6 @@
 # Customer-Segmentation-ONLINE-RETAIL-REPORT-K-Means-clustering
 
-This project utilizes analytics techniques to segment customers based on their behavior and demographics. Using clustering algorithms and RFM analysis, we identified high-value customers and recommended targeted marketing strategies to enhance customer engagement and retention. The project includes:
+This project utilizes analytics techniques to segment customers based on their behavior and targeted segments. Using clustering algorithms and RFM analysis, we identified high-value customers and recommended targeted marketing strategies to enhance customer engagement and retention. The project includes:
 
 1. Data processing and exploration
 
